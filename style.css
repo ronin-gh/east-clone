@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+h1.topbar {
+    font-size: 52;
+    text-align: center;
+    background: white;
+    padding: 10px;
+    font-family: 'Calistoga', cursive;
+}
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+div.center {
+    position: relative;
+    background: rgb(192, 192, 192);
+    height: 50%;
+    width: 33.3%;
+}
+div.left {
+    float: left;
+    background: rgb(255, 25, 32);
+    height: 50%;
+    width: 33.3%;
+}
+div.right {
+    float: right;
+    background: #11336A;
+    height: 50%;
+    width: 33.3%;
+}
