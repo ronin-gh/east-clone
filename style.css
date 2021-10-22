@@ -3,29 +3,43 @@
 }
 h1.topbar {
     font-size: 52;
-    text-align: center;
     background: white;
     padding: 10px;
+    font-family: 'Calistoga', cursive;
+}
+h1.footer {
+    font-size: 20;
+    background: white;
     font-family: 'Calistoga', cursive;
 }
 p {
     font-family: 'Roboto Condensed', sans-serif;
 }
-div.center {
-    position: relative;
-    background: rgb(192, 192, 192);
-    height: 50%;
-    width: 33.3%;
+ul {
+    font-family: 'Roboto Condensed', sans-serif;
 }
 div.left {
     float: left;
     background: rgb(255, 25, 32);
-    height: 50%;
+    height: 333px;
     width: 33.3%;
 }
-div.right {
-    float: right;
-    background: #11336A;
-    height: 50%;
+div.center {
+    float: left;
+    background: rgb(192, 192, 192);
+    height: 333px;
     width: 33.3%;
+}
+
+div.right {
+    float: left;
+    background: #11336A;
+    height: 333px;
+    width: 33.3%;
+    
+}
+div.bottombox{
+    background: rgb(255, 25, 32);
+    height: 52%;
+    width: 100%;
 }
