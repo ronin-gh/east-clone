@@ -15,8 +15,12 @@ h1.footer {
 p {
     font-family: 'Roboto Condensed', sans-serif;
 }
-ul {
+ul.links {
     font-family: 'Roboto Condensed', sans-serif;
+}
+ul.announcements {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff; 
 }
 div.left {
     float: left;
